@@ -60,7 +60,7 @@
         <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-        <img src="https://img.shields.io/badge/Distributed Systems-FFA500?style=flat-square&logo=distributed-systems&logoColor=white" alt="Distributed Systems" />
+<!--         <img src="https://img.shields.io/badge/Distributed Systems-FFA500?style=flat-square&logo=distributed-systems&logoColor=white" alt="Distributed Systems" /> -->
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
         <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
         <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka" />
@@ -73,8 +73,8 @@
         <img src="https://img.shields.io/badge/Unix-FFD700?style=flat-square&logo=unix&logoColor=black" alt="Unix" />
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Machine Learning-4B0082?style=flat-square&logo=machine-learning&logoColor=white" alt="Machine Learning" />
-        <img src="https://img.shields.io/badge/Distributed Systems-FFA500?style=flat-square&logo=distributed-systems&logoColor=white" alt="Distributed Systems" />
+<!--         <img src="https://img.shields.io/badge/Machine Learning-4B0082?style=flat-square&logo=machine-learning&logoColor=white" alt="Machine Learning" /> -->
+<!--         <img src="https://img.shields.io/badge/Distributed Systems-FFA500?style=flat-square&logo=distributed-systems&logoColor=white" alt="Distributed Systems" /> -->
         <img src="https://img.shields.io/badge/Information Retrieval-008000?style=flat-square&logo=information-retrieval&logoColor=white" alt="Information Retrieval" />
         <img src="https://img.shields.io/badge/Software Testing-FF0000?style=flat-square&logo=software-testing&logoColor=white" alt="Software Testing" />
         <img src="https://img.shields.io/badge/API Development-9400D3?style=flat-square&logo=api-development&logoColor=white" alt="API Development" />
@@ -91,6 +91,11 @@
       <th>Project</th>
       <th>Description</th>
       <th>Live Demo</th>
+    </tr>
+      <tr>
+      <td><b>AmbitiousYou🚩</b></td>
+      <td>AmbitiousYou let's you become a superhuman by letting you focus on your life goals in a prioritised approach!</td>
+      <td><a href="https://ambitious-you.vercel.app/" target="_blank">Live Demo</a></td>
     </tr>
     <tr>
       <td><b>Cryptography App</b></td>
@@ -119,20 +124,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemants1703&theme=dark" alt="Hemant's GitHub streak stats" />
 </div>
 
-<!-- <h2>🌐 Connect with me</h2>
+ <h2>🌐 Connect with me</h2>
 <p align="center">
   <a href="https://twitter.com/hemants1703" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/hemants1703" target="_blank">
+  <a href="https://www.linkedin.com/in/hemantsharma1703/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:itshemantsharma173@gmail.com" target="_blank">
+  <a href="mailto:hemant@hemantsharma.tech" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://hemantsharma.tech" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=internet&logoColor=white" alt="Portfolio" />
   </a>
-</p> -->
+</p> 
 
 <h3>Thank you for visiting my profile! Let's connect and create something amazing together. 🚀</h3>

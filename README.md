@@ -100,17 +100,17 @@
     <tr>
       <td><b>Cryptography App</b></td>
       <td>A web application showcasing various cryptography algorithms, including Caesar Cipher and Rail Fence Cipher (more on the way!). Built with SvelteKit.</td>
-      <td><a href="https://cryptography-app.netlify.app/" target="_blank">Live Demo</a></td>
+      <td><a href="https://cryptography-app-svelte.vercel.app/" target="_blank">Live Demo</a></td>
     </tr>
     <tr>
       <td><b>Hacker News App</b></td>
       <td>A React.js application that uses the Hacker News API to search for articles and get insights like points and comments.</td>
-      <td><a href="https://hacker-news-app-hemants1703.netlify.app/" target="_blank">Live Demo</a></td>
+      <td><a href="https://hacker-news-api-react-app.vercel.app/" target="_blank">Live Demo</a></td>
     </tr>
     <tr>
       <td><b>Password Generator</b></td>
       <td>A React.js app that generates fully customizable passwords for different platforms.</td>
-      <td><a href="https://password-generator-hemants1703.netlify.app/" target="_blank">Live Demo</a></td>
+      <td><a href="http://hemantsharma.dev/password-generator-react-app/" target="_blank">Live Demo</a></td>
     </tr>
   </table>
 </div>

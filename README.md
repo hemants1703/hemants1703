@@ -95,7 +95,7 @@
       <tr>
       <td><b>AmbitiousYou🚩</b></td>
       <td>AmbitiousYou let's you become a superhuman by letting you focus on your life goals in a prioritised approach!</td>
-      <td><a href="https://ambitious-you.vercel.app/" target="_blank">Live Demo</a></td>
+      <td><a href="https://ambitiousyou.pro/" target="_blank">Live Demo</a></td>
     </tr>
     <tr>
       <td><b>Cryptography App</b></td>

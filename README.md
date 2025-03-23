@@ -90,32 +90,32 @@
     <tr>
       <th>Project</th>
       <th>Description</th>
-      <th>Live Demo</th>
+      <th>Live App</th>
     </tr>
       <tr>
       <td><b>AmbitiousYou</b></td>
       <td>AmbitiousYou let's you become a superhuman by letting you focus on your life goals in a prioritised approach!</td>
-      <td><a href="https://ambitiousyou.pro/" target="_blank">Live Demo</a></td>
-    </tr>
-    <tr>
-      <td><b>Cryptography App</b></td>
-      <td>A web application showcasing various cryptography algorithms, including Caesar Cipher and Rail Fence Cipher (more on the way!). Built with SvelteKit.</td>
-      <td><a href="https://cryptography-app-svelte.vercel.app/" target="_blank">Live Demo</a></td>
+      <td><a href="https://ambitiousyou.pro/" target="_blank">Check Live App</a></td>
     </tr>
     <tr>
       <td><b>Hacker News App</b></td>
       <td>A React.js application that uses the Hacker News API to search for articles and get insights like points and comments.</td>
-      <td><a href="https://hacker-news-api-react-app.vercel.app/" target="_blank">Live Demo</a></td>
+      <td><a href="https://hn-explorer.hemantsharma.tech/" target="_blank">Check Live App</a></td>
     </tr>
     <tr>
       <td><b>PrivacyTodo</b></td>
       <td>Welcome to the most private To Do app you'll ever use! Your tasks stay exclusively in your browser - no data ever leaves your device.</td>
-      <td><a href="http://privacytodo.hemantsharma.tech/" target="_blank">Live Demo</a></td>
+      <td><a href="http://privacytodo.hemantsharma.tech/" target="_blank">Check Live App</a></td>
     </tr>
     <tr>
       <td><b>Password Generator</b></td>
       <td>A React.js app that generates fully customizable passwords for different platforms.</td>
-      <td><a href="http://hemantsharma.dev/password-generator-react-app/" target="_blank">Live Demo</a></td>
+      <td><a href="https://password-generator.hemantsharma.tech/" target="_blank">Check Live App</a></td>
+    </tr>
+    <tr>
+      <td><b>Cryptography App</b></td>
+      <td>A web application showcasing various cryptography algorithms, including Caesar Cipher and Rail Fence Cipher (more on the way!). Built with SvelteKit.</td>
+      <td><a href="https://cryptography-app-svelte.vercel.app/" target="_blank">Check Live App</a></td>
     </tr>
   </table>
 </div>

@@ -30,31 +30,31 @@
     </tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
         <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sql&logoColor=white" alt="SQL" />
       </td>
       <td>
-        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React.js" />
-        <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="SvelteKit" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React.js" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+        <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="SvelteKit" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
         <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
         <img src="https://img.shields.io/badge/AdonisJS-220052?style=flat-square&logo=adonisjs&logoColor=white" alt="AdonisJS" />
         <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
         <img src="https://img.shields.io/badge/EJS-2C2C2C?style=flat-square&logo=ejs&logoColor=white" alt="EJS" />
         <img src="https://img.shields.io/badge/Chakra UI-319795?style=flat-square&logo=chakraui&logoColor=white" alt="Chakra UI" />
         <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="Styled Components" />
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
         <img src="https://img.shields.io/badge/SSH-F26822?style=flat-square&logo=ssh&logoColor=white" alt="SSH" />
         <img src="https://img.shields.io/badge/MAMP-FF6847?style=flat-square&logo=mamp&logoColor=white" alt="MAMP" />
         <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP" />
@@ -93,7 +93,7 @@
       <th>Live Demo</th>
     </tr>
       <tr>
-      <td><b>AmbitiousYou🚩</b></td>
+      <td><b>AmbitiousYou</b></td>
       <td>AmbitiousYou let's you become a superhuman by letting you focus on your life goals in a prioritised approach!</td>
       <td><a href="https://ambitiousyou.pro/" target="_blank">Live Demo</a></td>
     </tr>
@@ -106,6 +106,11 @@
       <td><b>Hacker News App</b></td>
       <td>A React.js application that uses the Hacker News API to search for articles and get insights like points and comments.</td>
       <td><a href="https://hacker-news-api-react-app.vercel.app/" target="_blank">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td><b>PrivacyTodo</b></td>
+      <td>Welcome to the most private To Do app you'll ever use! Your tasks stay exclusively in your browser - no data ever leaves your device.</td>
+      <td><a href="http://privacytodo.hemantsharma.tech/" target="_blank">Live Demo</a></td>
     </tr>
     <tr>
       <td><b>Password Generator</b></td>
@@ -129,7 +134,7 @@
   <a href="https://twitter.com/hemants1703" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/hemantsharma1703/" target="_blank">
+  <a href="https://www.linkedin.com/in/hemants1703/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:hemant@hemantsharma.tech" target="_blank">

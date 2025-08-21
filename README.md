@@ -46,15 +46,15 @@
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
         <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-        <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="SvelteKit" />
+        <!-- <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="SvelteKit" /> -->
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
-        <img src="https://img.shields.io/badge/AdonisJS-220052?style=flat-square&logo=adonisjs&logoColor=white" alt="AdonisJS" />
-        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
-        <img src="https://img.shields.io/badge/EJS-2C2C2C?style=flat-square&logo=ejs&logoColor=white" alt="EJS" />
-        <img src="https://img.shields.io/badge/Chakra UI-319795?style=flat-square&logo=chakraui&logoColor=white" alt="Chakra UI" />
-        <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="Styled Components" />
+        <!-- <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" /> -->
+        <!-- <img src="https://img.shields.io/badge/AdonisJS-220052?style=flat-square&logo=adonisjs&logoColor=white" alt="AdonisJS" /> -->
+        <!-- <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" /> -->
+        <!-- <img src="https://img.shields.io/badge/EJS-2C2C2C?style=flat-square&logo=ejs&logoColor=white" alt="EJS" /> -->
+        <!-- <img src="https://img.shields.io/badge/Chakra UI-319795?style=flat-square&logo=chakraui&logoColor=white" alt="Chakra UI" /> -->
+        <!-- <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="Styled Components" /> -->
         <img src="https://img.shields.io/badge/SSH-F26822?style=flat-square&logo=ssh&logoColor=white" alt="SSH" />
         <img src="https://img.shields.io/badge/MAMP-FF6847?style=flat-square&logo=mamp&logoColor=white" alt="MAMP" />
         <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP" />
@@ -62,9 +62,9 @@
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 <!--         <img src="https://img.shields.io/badge/Distributed Systems-FFA500?style=flat-square&logo=distributed-systems&logoColor=white" alt="Distributed Systems" /> -->
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
-        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka" />
-        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+        <!-- <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" /> -->
+        <!-- <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka" /> -->
+        <!-- <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" /> -->
       </td>
       <td>
         <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />

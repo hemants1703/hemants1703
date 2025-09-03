@@ -98,6 +98,15 @@
       <td><a href="https://github.com/hemants1703/docochat-ai-rag-nextjs-postgresql-gemini.git" target="_blank">Check App Repo</a></td>
     </tr>
     <tr>
+      <td><b>🤖 AI Agent // Personal Assistant</b></td>
+      <td>This isn't just another chatbot; it's a context-aware, location-intelligent AI assistant that demonstrates mastery of contemporary web technologies and AI integration patterns.</td>
+      <td>
+        <a href="https://youtu.be/hssZ37ntMb4" target="_blank">Check App</a>
+        <br/>
+        <a href="https://github.com/hemants1703/ai-agent-openai-api-nextjs-app.git" target="_blank">Check App Repo</a>
+      </td>
+    </tr>
+    <tr>
       <td><b>AmbitiousYou</b></td>
       <td>AmbitiousYou let's you become a superhuman by letting you focus on your life goals in a prioritised approach!</td>
       <td><a href="https://ambitiousyou.pro/" target="_blank">Check Live App</a></td>

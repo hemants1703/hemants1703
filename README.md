@@ -90,9 +90,14 @@
     <tr>
       <th>Project</th>
       <th>Description</th>
-      <th>Live App</th>
+      <th>Links</th>
     </tr>
-      <tr>
+    <tr>
+      <td><b>Docochat AI</b></td>
+      <td>Intelligent Document Conversations</td>
+      <td><a href="https://github.com/hemants1703/docochat-ai-rag-nextjs-postgresql-gemini.git" target="_blank">Check App Repo</a></td>
+    </tr>
+    <tr>
       <td><b>AmbitiousYou</b></td>
       <td>AmbitiousYou let's you become a superhuman by letting you focus on your life goals in a prioritised approach!</td>
       <td><a href="https://ambitiousyou.pro/" target="_blank">Check Live App</a></td>

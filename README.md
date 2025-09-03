@@ -93,7 +93,7 @@
       <th>Links</th>
     </tr>
     <tr>
-      <td><b>Docochat AI</b></td>
+      <td><b>🤖 Docochat AI</b></td>
       <td>Intelligent Document Conversations</td>
       <td><a href="https://github.com/hemants1703/docochat-ai-rag-nextjs-postgresql-gemini.git" target="_blank">Check App Repo</a></td>
     </tr>

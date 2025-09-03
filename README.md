@@ -94,7 +94,7 @@
     </tr>
     <tr>
       <td><b>🤖 Docochat AI</b></td>
-      <td>Intelligent Document Conversations</td>
+      <td>DocoChat AI revolutionizes document interaction by combining cutting-edge Retrieval-Augmented Generation (RAG) with an intuitive, modern interface</td>
       <td><a href="https://github.com/hemants1703/docochat-ai-rag-nextjs-postgresql-gemini.git" target="_blank">Check App Repo</a></td>
     </tr>
     <tr>

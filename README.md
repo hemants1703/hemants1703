@@ -56,8 +56,8 @@
         <!-- <img src="https://img.shields.io/badge/Chakra UI-319795?style=flat-square&logo=chakraui&logoColor=white" alt="Chakra UI" /> -->
         <!-- <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="Styled Components" /> -->
         <img src="https://img.shields.io/badge/SSH-F26822?style=flat-square&logo=ssh&logoColor=white" alt="SSH" />
-        <img src="https://img.shields.io/badge/MAMP-FF6847?style=flat-square&logo=mamp&logoColor=white" alt="MAMP" />
-        <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP" />
+<!--         <img src="https://img.shields.io/badge/MAMP-FF6847?style=flat-square&logo=mamp&logoColor=white" alt="MAMP" /> -->
+<!--         <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP" /> -->
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 <!--         <img src="https://img.shields.io/badge/Distributed Systems-FFA500?style=flat-square&logo=distributed-systems&logoColor=white" alt="Distributed Systems" /> -->

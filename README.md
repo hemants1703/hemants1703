@@ -1,162 +1,159 @@
-<h1 align="center">Hello, I'm Hemant Sharma 👋</h1>
+<h1 align="center">Hey there! I'm Hemant Sharma 👋</h1>
+
+<div align="center">
+  
+**🚀 Full-Stack AI Engineer | 🤖 Certified AI Specialist | 💡 Innovation Builder**
 
 <p align="center">
-<a href="https://hemantsharma.tech" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=internet&logoColor=white" alt="Portfolio" />
+  <a href="https://hemantsharma.tech" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://twitter.com/hemants1703" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/hemants1703?logo=x&style=for-the-badge" alt="Twitter followers" />
+    <img src="https://img.shields.io/twitter/follow/hemants1703?logo=x&style=for-the-badge&color=1DA1F2" alt="Twitter followers" />
   </a>
   <a href="https://github.com/hemants1703" target="_blank">
-    <img src="https://img.shields.io/github/followers/hemants1703?logo=github&style=for-the-badge" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/hemants1703?logo=github&style=for-the-badge&color=181717" alt="GitHub followers" />
   </a>
   <a href="https://linkedin.com/in/hemants1703" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
 </p>
 
-<h2>🚀 About Me</h2>
-<p>I'm a passionate full-stack developer and problem-solver. I'm always eager to learn new technologies and take on challenging projects. These many times my profile has been visited! -> <img src="https://visitor-badge.laobi.icu/badge?page_id=hemants1703.hemants1703"/></p>
-
-<h2>🛠️ Skills</h2>
-<div align="center">
-  <table>
-    <tr>
-      <th>Languages</th>
-      <th>Frameworks & Technologies</th>
-      <th>Operating Systems</th>
-      <th>Other Skills</th>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sql&logoColor=white" alt="SQL" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React.js" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-        <!-- <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="SvelteKit" /> -->
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-        <!-- <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" /> -->
-        <!-- <img src="https://img.shields.io/badge/AdonisJS-220052?style=flat-square&logo=adonisjs&logoColor=white" alt="AdonisJS" /> -->
-        <!-- <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" /> -->
-        <!-- <img src="https://img.shields.io/badge/EJS-2C2C2C?style=flat-square&logo=ejs&logoColor=white" alt="EJS" /> -->
-        <!-- <img src="https://img.shields.io/badge/Chakra UI-319795?style=flat-square&logo=chakraui&logoColor=white" alt="Chakra UI" /> -->
-        <!-- <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="Styled Components" /> -->
-        <img src="https://img.shields.io/badge/SSH-F26822?style=flat-square&logo=ssh&logoColor=white" alt="SSH" />
-<!--         <img src="https://img.shields.io/badge/MAMP-FF6847?style=flat-square&logo=mamp&logoColor=white" alt="MAMP" /> -->
-<!--         <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP" /> -->
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-<!--         <img src="https://img.shields.io/badge/Distributed Systems-FFA500?style=flat-square&logo=distributed-systems&logoColor=white" alt="Distributed Systems" /> -->
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-        <!-- <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" /> -->
-        <!-- <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka" /> -->
-        <!-- <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" /> -->
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-        <img src="https://img.shields.io/badge/Unix-FFD700?style=flat-square&logo=unix&logoColor=black" alt="Unix" />
-      </td>
-      <td>
-<!--         <img src="https://img.shields.io/badge/Machine Learning-4B0082?style=flat-square&logo=machine-learning&logoColor=white" alt="Machine Learning" /> -->
-<!--         <img src="https://img.shields.io/badge/Distributed Systems-FFA500?style=flat-square&logo=distributed-systems&logoColor=white" alt="Distributed Systems" /> -->
-        <img src="https://img.shields.io/badge/Information Retrieval-008000?style=flat-square&logo=information-retrieval&logoColor=white" alt="Information Retrieval" />
-        <img src="https://img.shields.io/badge/Software Testing-FF0000?style=flat-square&logo=software-testing&logoColor=white" alt="Software Testing" />
-        <img src="https://img.shields.io/badge/API Development-9400D3?style=flat-square&logo=api-development&logoColor=white" alt="API Development" />
-        <img src="https://img.shields.io/badge/API Testing-FF8C00?style=flat-square&logo=api-testing&logoColor=white" alt="API Testing" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h2>🚀 Projects</h2>
-<div align="center">
-  <table>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Links</th>
-    </tr>
-    <tr>
-      <td><b>🤖 Docochat AI</b></td>
-      <td>DocoChat AI revolutionizes document interaction by combining cutting-edge Retrieval-Augmented Generation (RAG) with an intuitive, modern interface</td>
-      <td><a href="https://github.com/hemants1703/docochat-ai-rag-nextjs-postgresql-gemini.git" target="_blank">Check App Repo</a></td>
-    </tr>
-    <tr>
-      <td><b>🤖 AI Agent // Personal Assistant</b></td>
-      <td>This isn't just another chatbot; it's a context-aware, location-intelligent AI assistant that demonstrates mastery of contemporary web technologies and AI integration patterns.</td>
-      <td>
-        <a href="https://youtu.be/hssZ37ntMb4" target="_blank">Check App</a>
-        <br/>
-        <a href="https://github.com/hemants1703/ai-agent-openai-api-nextjs-app.git" target="_blank">Check App Repo</a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>AmbitiousYou</b></td>
-      <td>AmbitiousYou let's you become a superhuman by letting you focus on your life goals in a prioritised approach!</td>
-      <td><a href="https://ambitiousyou.pro/" target="_blank">Check Live App</a></td>
-    </tr>
-    <tr>
-      <td><b>Hacker News App</b></td>
-      <td>A React.js application that uses the Hacker News API to search for articles and get insights like points and comments.</td>
-      <td><a href="https://hn-explorer.hemantsharma.tech/" target="_blank">Check Live App</a></td>
-    </tr>
-    <tr>
-      <td><b>PrivacyTodo</b></td>
-      <td>Welcome to the most private To Do app you'll ever use! Your tasks stay exclusively in your browser - no data ever leaves your device.</td>
-      <td><a href="http://privacytodo.hemantsharma.tech/" target="_blank">Check Live App</a></td>
-    </tr>
-    <tr>
-      <td><b>Password Generator</b></td>
-      <td>A React.js app that generates fully customizable passwords for different platforms.</td>
-      <td><a href="https://password-generator.hemantsharma.tech/" target="_blank">Check Live App</a></td>
-    </tr>
-    <tr>
-      <td><b>Cryptography App</b></td>
-      <td>A web application showcasing various cryptography algorithms, including Caesar Cipher and Rail Fence Cipher (more on the way!). Built with SvelteKit.</td>
-      <td><a href="https://cryptography-app-svelte.vercel.app/" target="_blank">Check Live App</a></td>
-    </tr>
-  </table>
-</div>
-
-<h2>🤝 Open-Source Contributions</h2>
-<p>I'm actively looking to contribute to open-source projects. If you have any opportunities or ideas, feel free to reach out!</p>
-
-<h2>📈 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemants1703&show_icons=true&theme=dark" alt="Hemant's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemants1703&theme=dark" alt="Hemant's GitHub streak stats" />
-</div>
-
- <h2>🌐 Connect with me</h2>
 <p align="center">
-  <a href="https://twitter.com/hemants1703" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/hemants1703/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hemant@hemantsharma.tech" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://hemantsharma.tech" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=internet&logoColor=white" alt="Portfolio" />
-  </a>
-</p> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hemants1703.hemants1703&style=flat-square&color=0088cc" alt="Profile Views" />
+</p>
 
-<h3>Thank you for visiting my profile! Let's connect and create something amazing together. 🚀</h3>
+</div>
+
+---
+
+## 🎯 About Me
+
+I'm a **certified Full-Stack AI Engineer** passionate about building intelligent applications that push the boundaries of what's possible! My expertise spans from crafting beautiful **React frontends** to architecting **AI-powered backends**, specializing in production-ready **machine learning integrations** and **intelligent systems**.
+
+🎓 **[Certified AI Engineer](https://scrimba.com/certificate-cert2JbLs3qgBCMEwHAXdzxPbhhqEkuLHRazrshJw4)** - Scrimba AI Engineer Path
+
+**What makes me unique:**
+- 🔥 **Full-Stack AI Development** - End-to-end intelligent application development
+- 🤖 **Advanced AI Integration** - RAG systems, LLMs, OpenAI APIs, intelligent document processing
+- 🧠 **Machine Learning in Production** - From prototype to scalable AI solutions
+- 🛠️ **Modern Tech Stack Mastery** - React, Next.js, TypeScript, Node.js, Python
+- 🚀 **AI-First Architecture** - Designing systems that leverage AI at their core
+
+## 🛠️ My Tech Arsenal
+
+<div align="center">
+
+**Languages I Love** 💻  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Frontend Magic** ✨  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend Power** ⚡  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**AI & Machine Learning** 🤖  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![RAG Systems](https://img.shields.io/badge/RAG_Systems-FF6B6B?style=flat-square&logo=ai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector_DBs-4A90E2?style=flat-square&logo=database&logoColor=white)
+
+**DevOps & Tools** 🔧  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+## 🚀 Cool Stuff I've Built
+
+### 🤖 [DocoChat AI](https://github.com/hemants1703/docochat-ai-rag-nextjs-postgresql-gemini.git)
+**Talk to your documents like never before!** This RAG-powered app lets you have intelligent conversations with any document. Built with Next.js, PostgreSQL, and Google Gemini AI - it's like having a super-smart reading assistant! 📚✨
+
+`Next.js` `PostgreSQL` `Google Gemini` `RAG` `TailwindCSS`
+
+### 🧠 [AI Personal Assistant](https://github.com/hemants1703/ai-agent-openai-api-nextjs-app.git) | [🎬 Demo](https://youtu.be/hssZ37ntMb4)
+**Your context-aware AI buddy!** This isn't just another chatbot - it remembers your conversations, knows your location, and actually helps you get stuff done. OpenAI integration at its finest! 🚀
+
+`Next.js` `OpenAI API` `TypeScript` `Geolocation` `Context Management`
+
+### 📈 [AmbitiousYou](https://ambitiousyou.pro/)
+**Become the superhuman version of yourself!** A goal-tracking platform that helps you prioritize what matters most. Clean design meets powerful functionality. 💪
+
+`React.js` `Node.js` `Goal Management` `Analytics` `UX Design`
+
+### 🔒 [PrivacyTodo](http://privacytodo.hemantsharma.tech/)
+**The most private todo app ever!** Your tasks never leave your browser - zero tracking, zero data collection, maximum privacy. Sometimes the best solution is the simplest one! 🛡️
+
+`React.js` `Local Storage` `Privacy-First` `PWA`
+
+### 📰 [HN Explorer](https://hn-explorer.hemantsharma.tech/)
+**Hacker News, but better!** Search, filter, and explore the best of HN with a modern interface. Real-time data with smooth UX. 📊
+
+`React.js` `Hacker News API` `Data Visualization` `Real-time Search`
+
+### 🔐 [Cryptography Toolkit](https://cryptography-app-hemants1703.netlify.app/)
+**Learn crypto the fun way!** Interactive demos of cryptographic algorithms. Built with SvelteKit because why not try something different? 🔢
+
+`SvelteKit` `Cryptography` `Educational` `Interactive UI`
+
+### 🔑 [Password Generator](https://password-generator.hemantsharma.tech/)
+**Strong passwords made easy!** Customizable password generation with all the security options you need. Simple, effective, and secure! 🔐
+
+`React.js` `Security` `Customizable` `User-Friendly`
+
+## 📊 GitHub Stats That Make Me Smile
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemants1703&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemants1703&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemants1703&theme=radical" alt="GitHub Streak Stats"/>
+</div>
+
+---
+
+## 🤝 Let's Build Something Amazing Together!
+
+**I'm always excited about:**
+- 🚀 **AI-Powered Applications** with cutting-edge ML integrations
+- 🤖 **Full-Stack AI Projects** from concept to production
+- 🧠 **LLM & RAG Systems** development and optimization
+- 🌟 **Open Source AI Contributions** (let's build the future together!)
+- 💡 **AI Architecture** discussions and knowledge sharing
+- 🎯 **AI Consulting & Development** opportunities
+
+---
+
+## 📬 Find Me Around the Web
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Check_Out_My_Work-000?style=for-the-badge)](https://hemantsharma.tech)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/hemants1703)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow_For_Updates-1DA1F2?style=for-the-badge)](https://twitter.com/hemants1703)
+[![Email](https://img.shields.io/badge/📧_Email-Say_Hello-EA4335?style=for-the-badge)](mailto:hemant@hemantsharma.tech)
+
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let's+create+something+awesome+together!;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+</div>

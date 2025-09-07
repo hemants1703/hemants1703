@@ -31,7 +31,11 @@
 
 I'm a **certified Full-Stack AI Engineer** passionate about building intelligent applications that push the boundaries of what's possible! My expertise spans from crafting beautiful **React frontends** to architecting **AI-powered backends**, specializing in production-ready **machine learning integrations** and **intelligent systems**.
 
-🎓 **[Certified AI Engineer](https://scrimba.com/certificate-cert2JbLs3qgBCMEwHAXdzxPbhhqEkuLHRazrshJw4)** - Scrimba AI Engineer Path
+<div align="center">
+
+🎓 **[Certified AI Engineer](https://scrimba.com/certificate-cert2JbLs3qgBCMEwHAXdzxPbhhqEkuLHRazrshJw4)** - *Scrimba AI Engineer Path*
+
+</div>
 
 **What makes me unique:**
 - 🔥 **Full-Stack AI Development** - End-to-end intelligent application development
@@ -76,6 +80,7 @@ I'm a **certified Full-Stack AI Engineer** passionate about building intelligent
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
@@ -117,15 +122,19 @@ I'm a **certified Full-Stack AI Engineer** passionate about building intelligent
 
 `React.js` `Security` `Customizable` `User-Friendly`
 
-## 📊 GitHub Stats That Make Me Smile
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemants1703&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemants1703&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemants1703&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=10&border_color=0891b2"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemants1703&layout=compact&langs_count=8&theme=github_dark&border_radius=10&border_color=0891b2"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemants1703&theme=radical" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemants1703&theme=github-dark-blue&border_radius=10&border=0891b2" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemants1703&theme=github-compact&bg_color=0d1117&color=0891b2&line=0891b2&point=58a6ff&area=true&hide_border=true&radius=10" alt="Contribution Graph" />
 </div>
 
 ---
@@ -155,5 +164,5 @@ I'm a **certified Full-Stack AI Engineer** passionate about building intelligent
 
 <div align="center">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let's+create+something+awesome+together!;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0891b2&width=435&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let's+create+something+awesome+together!;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </div>

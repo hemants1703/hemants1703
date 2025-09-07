@@ -110,17 +110,17 @@ I'm a **certified Full-Stack AI Engineer** passionate about building intelligent
 <!-- ### 📰 [HN Explorer](https://hn-explorer.hemantsharma.tech/)
 **Hacker News, but better!** Search, filter, and explore the best of HN with a modern interface. Real-time data with smooth UX. 📊
 
-`React.js` `Hacker News API` `Data Visualization` `Real-time Search` -->
+`React.js` `Hacker News API` `Data Visualization` `Real-time Search`
 
-<!-- ### 🔐 [Cryptography Toolkit](https://cryptography-app-hemants1703.netlify.app/)
+### 🔐 [Cryptography Toolkit](https://cryptography-app-hemants1703.netlify.app/)
 **Learn crypto the fun way!** Interactive demos of cryptographic algorithms. Built with SvelteKit because why not try something different? 🔢
 
 `SvelteKit` `Cryptography` `Educational` `Interactive UI`
 
 ### 🔑 [Password Generator](https://password-generator.hemantsharma.tech/)
-**Strong passwords made easy!** Customizable password generation with all the security options you need. Simple, effective, and secure! 🔐 -->
+**Strong passwords made easy!** Customizable password generation with all the security options you need. Simple, effective, and secure! 🔐
 
-`React.js` `Security` `Customizable` `User-Friendly`
+`React.js` `Security` `Customizable` `User-Friendly` -->
 
 ## 📊 GitHub Analytics
 

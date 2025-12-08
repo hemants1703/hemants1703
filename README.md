@@ -9,6 +9,8 @@
   <a href="mailto:hemant@hemantsharma.tech">Email</a>
 </p>
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=hemants1703.hemants1703" alt="Profile Views" />
+
 ---
 
 ## What I'm Working On
@@ -17,12 +19,12 @@
 Goal tracking platform with priority-based task management.
 
 **Technical highlights:**
-- Self-hosted on DigitalOcean using Coolify
+- Self-hosting on DigitalOcean Droplet
 - [Dedicated email service](https://github.com/hemants1703/ambitiousyou-notifications-service) proxied through Next.js Server Actions for secure deployment
 - Full auth flow with Better-Auth including password reset via email
 - Dockerized for portable deployment
 
-*Currently adding: CI/CD pipeline with GitHub Actions → GHCR → Coolify*
+*Currently adding: CI/CD pipeline with GitHub Actions → GHCR → Droplet Deployment*
 
 `Next.js` `TypeScript` `PostgreSQL` `Drizzle` `Node.js` `Express.js` `Docker`
 
@@ -67,16 +69,15 @@ Context-aware assistant with location-based responses and conversation memory.
 ## Stats
 
 <p align="center">
-  <a href="https://github.com/hemants1703"><img src="https://img.shields.io/github/followers/hemants1703" alt="GitHub followers"/></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hemants1703.hemants1703&style=flat-square&color=0088cc" alt="Profile Views" />
+  <!-- <a href="https://github.com/hemants1703"><img src="https://img.shields.io/github/followers/hemants1703" alt="GitHub followers"/></a> -->
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemants1703&theme=github-dark-blue&border_radius=10&border=0891b2" alt="GitHub Streak Stats"/>
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemants1703&theme=github-compact&bg_color=0d1117&color=0891b2&line=0891b2&point=58a6ff&area=true&hide_border=true&radius=10" alt="Contribution Graph" />
-</div>
+</div> -->
 
 ---

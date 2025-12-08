@@ -66,11 +66,11 @@ Context-aware assistant with location-based responses and conversation memory.
 
 ---
 
-## Stats
+<!-- ## Stats -->
 
-<p align="center">
-  <!-- <a href="https://github.com/hemants1703"><img src="https://img.shields.io/github/followers/hemants1703" alt="GitHub followers"/></a> -->
-</p>
+<!-- <p align="center">
+  <a href="https://github.com/hemants1703"><img src="https://img.shields.io/github/followers/hemants1703" alt="GitHub followers"/></a>
+</p> -->
 
 <!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemants1703&theme=github-dark-blue&border_radius=10&border=0891b2" alt="GitHub Streak Stats"/>
@@ -79,5 +79,3 @@ Context-aware assistant with location-based responses and conversation memory.
 <!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemants1703&theme=github-compact&bg_color=0d1117&color=0891b2&line=0891b2&point=58a6ff&area=true&hide_border=true&radius=10" alt="Contribution Graph" />
 </div> -->
-
----

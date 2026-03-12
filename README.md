@@ -5,7 +5,7 @@
 <p>
   <a href="https://hemantsharma.tech">Portfolio</a> •
   <a href="https://hemantsharma.tech/linkedin">LinkedIn</a> •
-  <a href="https://hemantsharma.tech/x">Twitter</a> •
+  <a href="https://hemantsharma.tech/x">X</a> •
   <a href="mailto:hemant@hemantsharma.tech">Email</a>
 </p>
 

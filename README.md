@@ -24,8 +24,6 @@ Goal tracking platform with priority-based task management.
 - Full auth flow with Better-Auth including password reset via email
 - Dockerized for portable deployment
 
-*Currently adding: CI/CD pipeline with GitHub Actions → GHCR → Droplet Deployment*
-
 `Next.js` `TypeScript` `PostgreSQL` `Drizzle` `Node.js` `Express.js` `Docker`
 
 ---

@@ -19,12 +19,11 @@
 Goal tracking platform with priority-based task management.
 
 **Technical highlights:**
-- Self-hosting on DigitalOcean Droplet
-- [Dedicated email service](https://github.com/hemants1703/ambitiousyou-notifications-service) proxied through Next.js Server Actions for secure deployment
-- Full auth flow with Better-Auth including password reset via email
-- Dockerized for portable deployment
+- Services based architecture for developing entire application with a well-defined structure.
+- Email service for email notifications such as Password Updates etc.
+- Full auth flow with Better-Auth including password reset via email.
 
-`Next.js` `TypeScript` `PostgreSQL` `Drizzle` `Node.js` `Express.js` `Docker`
+`Next.js` `TypeScript` `PostgreSQL` `Drizzle` `Node.js`
 
 ---
 

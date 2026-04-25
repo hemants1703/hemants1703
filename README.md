@@ -27,7 +27,7 @@ Goal tracking platform with priority-based task management.
 
 ---
 
-### [DocoChat AI](https://github.com/hemants1703/docochat-ai-rag-nextjs-postgresql-gemini)
+### [DocoChat AI](https://github.com/hemants1703/docochat-ai.git)
 RAG-based document Q&A system.  Upload documents, ask questions, get answers with source citations.
 
 **Technical highlights:**
